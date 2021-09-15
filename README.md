@@ -1,27 +1,37 @@
-Project Name: Hello Microverse
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-In this project we learn about:
--linterns
+# Project Name: 
+Hello Microverse
+
+> In this project we learn about:
+-linters
 -gitflow and specifically pull requests
 -documenting work
 
+![screenshot](./app_screenshot.png)
 
-Built With: html and css
+The project has a nice, blue "Hello Microverse" greeting.
 
-Live Demo Link: http://127.0.0.1:5500/index.html
+## Built With
 
-Prerequisites: none
-Author: Erick Osterling
+- Major languages: html and css
 
+### Prerequisites: 
+none
 
-GitHub: Erick-Osterling
-LinkedIn: https://www.linkedin.com/in/erick-osterling-castillo-49b569104/
+## Authors: 
+Erick Osterling
 
+👤 **Author1**
 
-Feel free to check the issues page.
+- GitHub: [@Erick-Osterling](https://github.com/Erick-Osterling)
+- Twitter: [@ErickOsterling](https://twitter.com/ErickOsterling)
+- LinkedIn: [@Erick Osterling Castillo](https://www.linkedin.com/in/erick-osterling-castillo-49b569104/)
 
-Show your support
-Give a star if you like this project!
+## Show your support
 
-Acknowledgments
-Microverse and Coding partners
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Microverse and Coding partners
