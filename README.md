@@ -8,7 +8,7 @@ Hello Microverse
 -gitflow and specifically pull requests
 -documenting work
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://github.com/Erick-Osterling/Hello-Microverse/blob/feature-1/Hello%20Microverse%20screenshot.png)
 
 The project has a nice, blue "Hello Microverse" greeting.
 
