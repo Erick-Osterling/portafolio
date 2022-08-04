@@ -1,23 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name: 
-Hello Microverse
+Portafolio
 
-> In this project we learn about:
--linters
--gitflow and specifically pull requests
--documenting work
-
-![screenshot](https://github.com/Erick-Osterling/Hello-Microverse/blob/feature-1/Hello%20Microverse%20screenshot.png)
-
-The project has a nice, blue "Hello Microverse" greeting.
-
-## Built With
-
-- Major languages: html and css
-
-### Prerequisites: 
-none
 
 ## Authors: 
 Erick Osterling
@@ -28,10 +13,3 @@ Erick Osterling
 - Twitter: [@ErickOsterling](https://twitter.com/ErickOsterling)
 - LinkedIn: [@Erick Osterling Castillo](https://www.linkedin.com/in/erick-osterling-castillo-49b569104/)
 
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Microverse and Coding partners
